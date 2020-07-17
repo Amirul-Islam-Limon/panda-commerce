@@ -1,0 +1,54 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-section, .contact-us{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-section {
+    padding: 20px 40px;
+}
+.price-info{
+    color: #ff136f;
+}
+.buy-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%,#FF136B 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 9px 20px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to left, orange 0%, rgb(238, 174, 57) 100%);
+}
+.cat2{
+    background-image: linear-gradient(to left, blue 0%, rgb(61, 61, 221) 100%);
+}
+.cat3{
+    background-image: linear-gradient(to left, rgb(25, 223, 25) 0%, rgb(74, 226, 74) 100%);
+}
+.catagory img{
+    width: 100px;
+}
+.shows-card, .backpack-card{
+    border: none;
+    box-shadow: 4px 4px 10px lightgray;
+    border-radius: 10px;
+}
+.backpack-card >.card-footer{
+    border: none;
+}
+.contact-us{
+    height: 300px;
+}
+footer{
+    text-align: center;
+    color: dimgray;
+    margin-bottom: 50px;
+}
